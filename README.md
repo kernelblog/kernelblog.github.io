@@ -12,10 +12,13 @@ Genç beyinler inovatif projeler düşüncesiyle yola çıkmış bir grup gencin
 
 ## Projelerimiz
 
-Dillinger uses a number of open source projects to work properly:
 
 - [VulnQuiz](vulnquiz.kernelblog.org) - Kendinizi Test Edin!
 - [Felis](felis.kernelblog.org) - Çok Yönlü İndirici
 
 
 Daha fazlası için [takipte](kernelblog.org) kalın!
+
+Sizlerde ekibimizin bir parçası olmak istiyorsanız, bizimle iletişime geçmeniz yeterlidir.
+
+
