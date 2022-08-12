@@ -13,11 +13,11 @@ Genç beyinler inovatif projeler düşüncesiyle yola çıkmış bir grup gencin
 ## Projelerimiz
 
 
-- [VulnQuiz](vulnquiz.kernelblog.org) - Kendinizi Test Edin!
-- [Felis](felis.kernelblog.org) - Çok Yönlü İndirici
+- [VulnQuiz](https://vulnquiz.kernelblog.org) - Kendinizi Test Edin!
+- [Felis](https://felis.kernelblog.org) - Çok Yönlü İndirici
 
 
-Daha fazlası için [takipte](kernelblog.org) kalın!
+Daha fazlası için [takipte](https://kernelblog.org) kalın!
 
 Sizlerde ekibimizin bir parçası olmak istiyorsanız, bizimle iletişime geçmeniz yeterlidir.
 
