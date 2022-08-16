@@ -5,9 +5,9 @@
 
 Genç beyinler inovatif projeler düşüncesiyle yola çıkmış bir grup gencin açtığı ve çok yönlü bir proje...
 
-- Siber Güvenlik
-- Röportajlar
-- ✨  Kendi  Zafiyetli Makinelerimiz ✨
+- [Siber Güvenlik](https://kernelblog.org/kategori/siber-guvenlik/)
+- [Röportajlar](https://kernelblog.org/kategori/roportajlar/)
+- [✨  Kendi  Zafiyetli Makinelerimiz ✨](https://kernelblog.org/zafiyetli-makinelerimiz/)
 
 
 ## Projelerimiz
