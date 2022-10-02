@@ -1,8 +1,8 @@
 # KernelBlog
 
 
-|[SiberTool](https://sibertool.com)| [Siber Güvenlik Yazıları](https://sibertool.com/Siber-Guvenlik-Yazilari/) | 
-|--|--|
+### [SiberTool](https://sibertool.com) | [Siber Güvenlik Yazıları](https://sibertool.com/Siber-Guvenlik-Yazilari/)  
+
 
 
 ## Siber Güvenlik ve Daha Fazlası!
