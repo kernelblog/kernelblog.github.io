@@ -1,7 +1,7 @@
 # KernelBlog
 
 
-### [SiberTool](https://sibertool.com) | [Siber Güvenlik Yazıları](https://sibertool.com/Siber-Guvenlik-Yazilari/)  
+### [KernelBlog Github](https://sibertool.com) | [Siber Güvenlik Yazıları](https://kernelblog.github.io/Siber-Guvenlik-Yazilari/)  
 
 
 
